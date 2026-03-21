@@ -1,5 +1,3 @@
-
-# Dispersion-Compensation
 # Dispersion Compensation
 
 ## Objective
@@ -74,6 +72,9 @@ The main physical components of this layout are:
 - Record similar measurements for comparison.  
 
 ---
+## Tabulation and Calculation
+![8 0](https://github.com/user-attachments/assets/ebf21d3f-561b-4819-915a-6e196e3eb9fb)
+![8 1](https://github.com/user-attachments/assets/62369c7c-8c24-47fe-b425-c64dc7e4df8e)
 
 ## Conclusions
 Discuss the effectiveness of dispersion-compensating fiber and the ability of the calculations to engineer a viable system.
